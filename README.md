@@ -3,6 +3,7 @@ Projeto de fundamentos em desenvolvimento web feito na Trybe utilizando conhecim
 No projeto Arte com pixels foi desenvolvido um quadro o qual cada unidade pode ser colorida com a cor selecionada na paleta de cores.
 
 Requesitos
+
 1 - Adicione à página o título "Paleta de Cores".
 
 2 - Adicione à página uma paleta de quatro cores distintas.
