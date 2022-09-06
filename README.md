@@ -2,6 +2,8 @@
 Projeto de fundamentos em desenvolvimento web feito na Trybe utilizando conhecimentos de HTML, JavaScript, CSS, DOM
 No projeto Arte com pixels foi desenvolvido um quadro o qual cada unidade pode ser colorida com a cor selecionada na paleta de cores.
 
+Veja o projeto renderizado aqui: https://thiagoseraphini.github.io/Projeto-PixelArts/
+
 Requesitos
 
 1 - Adicione à página o título "Paleta de Cores".
